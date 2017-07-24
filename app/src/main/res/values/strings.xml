@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Let there be cake!</string>
+    <string name="notif_title">Title</string>
+    <string name="message1">"You found a piece of the puzzle. Tap me to see it"</string>
+</resources>
